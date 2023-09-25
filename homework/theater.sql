@@ -1,0 +1,25 @@
+CUSTOMER
+    -first_name
+    -last_name
+    -email_address
+    -phone_number
+    -customer_id
+TICKETS
+    -title
+    -start_time
+    -date
+CONCESSIONS
+    -food
+    -drinks
+    -candy
+    -amount
+PAYMENT
+    -customer_id
+    -amount
+    -payment_date
+MOVIES
+    -title
+    -language
+    -genre
+    -length
+    -rating
